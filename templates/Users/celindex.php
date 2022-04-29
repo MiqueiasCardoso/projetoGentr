@@ -1,2 +1,1 @@
-<?= $users
-?>
+<?= json_encode($users) ?>
